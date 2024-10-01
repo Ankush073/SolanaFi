@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.583.0",
+    "@aws-sdk/s3-presigned-post": "^3.583.0",
+    "@aws-sdk/s3-request-presigner": "^3.583.0",
+    "create-next-app": "^14.2.3",
+    "zod": "^3.23.8"
+  }
+}

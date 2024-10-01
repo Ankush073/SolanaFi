@@ -1,0 +1,20 @@
+{
+      "options":[
+          {
+              "imageUrl":"abc"
+          
+          },
+          {
+              "imageUrl":"smd"
+          }
+  
+      ],
+      "signature":"0x1233jj"
+  }
+
+
+
+  {
+    "taskId":"8",
+    "selection":"15"
+}
